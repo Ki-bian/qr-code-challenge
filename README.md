@@ -3,6 +3,7 @@
 This project is a solution to the "QR Code Component" challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sioz).
 
 ## Preview
+https://ki-bian.github.io/qr-code-challenge/
 
 ![QR Code Component Preview](public/result-preview.png)
 
