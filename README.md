@@ -4,7 +4,7 @@ This project is a solution to the "QR Code Component" challenge from [Frontend M
 
 ## Preview
 
-![QR Code Component Preview](public/image-qr-code.png)
+![QR Code Component Preview](public/result-preview.png)
 
 ## Features
 
